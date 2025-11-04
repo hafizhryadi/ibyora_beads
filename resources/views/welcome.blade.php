@@ -48,8 +48,8 @@
                         <div class="card h-100 shadow-sm border-0">
                             <img src="{{ asset('images/lucu 1.jpg') }}" class="card-img-top" alt="Produk 1">
                             <div class="card-body text-center">
-                                <h6 class="fw-bold mb-1">Gelang Manik Etnik</h6>
-                                <p class="text-muted mb-0">Rp 45.000</p>
+                                <h6 class="fw-bold mb-1">Sweet Charm Bracelet Rose</h6>
+                                <p class="text-muted mb-0">Rp 50.000</p>
                             </div>
                         </div>
                     </div>
@@ -57,8 +57,8 @@
                         <div class="card h-100 shadow-sm border-0">
                             <img src="{{ asset('images/lucu 2.jpg') }}" class="card-img-top" alt="Produk 2">
                             <div class="card-body text-center">
-                                <h6 class="fw-bold mb-1">Kalung Kristal</h6>
-                                <p class="text-muted mb-0">Rp 75.000</p>
+                                <h6 class="fw-bold mb-1">Sweet Charm Bracelet Blue</h6>
+                                <p class="text-muted mb-0">Rp 50.000</p>
                             </div>
                         </div>
                     </div>
@@ -66,8 +66,8 @@
                         <div class="card h-100 shadow-sm border-0">
                             <img src="{{ asset('images/lucu 3.jpg') }}" class="card-img-top" alt="Produk 3">
                             <div class="card-body text-center">
-                                <h6 class="fw-bold mb-1">Anting Bunga</h6>
-                                <p class="text-muted mb-0">Rp 55.000</p>
+                                <h6 class="fw-bold mb-1">Sweet Charm Bracelet White</h6>
+                                <p class="text-muted mb-0">Rp 50.000</p>
                             </div>
                         </div>
                     </div>
@@ -82,8 +82,8 @@
                         <div class="card h-100 shadow-sm border-0">
                             <img src="{{ asset('images/couple 1.jpg') }}" class="card-img-top" alt="Produk 4">
                             <div class="card-body text-center">
-                                <h6 class="fw-bold mb-1">Gelang Couple Etnik</h6>
-                                <p class="text-muted mb-0">Rp 90.000 / pasangan</p>
+                                <h6 class="fw-bold mb-1">Couple Bracelet Spider</h6>
+                                <p class="text-muted mb-0">Rp 15.000</p>
                             </div>
                         </div>
                     </div>
@@ -91,8 +91,8 @@
                         <div class="card h-100 shadow-sm border-0">
                             <img src="{{ asset('images/couple 2.jpg') }}" class="card-img-top" alt="Produk 5">
                             <div class="card-body text-center">
-                                <h6 class="fw-bold mb-1">Kalung Couple Batu Alam</h6>
-                                <p class="text-muted mb-0">Rp 120.000 / pasangan</p>
+                                <h6 class="fw-bold mb-1">Couple Bracelet Spider</h6>
+                                <p class="text-muted mb-0">Rp 15.000</p>
                             </div>
                         </div>
                     </div>
@@ -100,8 +100,8 @@
                         <div class="card h-100 shadow-sm border-0">
                             <img src="{{ asset('images/couple 3.jpg') }}" class="card-img-top" alt="Produk 6">
                             <div class="card-body text-center">
-                                <h6 class="fw-bold mb-1">Cincin Couple Klasik</h6>
-                                <p class="text-muted mb-0">Rp 150.000 / pasangan</p>
+                                <h6 class="fw-bold mb-1">Couple Bracelet Spider</h6>
+                                <p class="text-muted mb-0">Rp 15.000</p>
                             </div>
                         </div>
                     </div>
@@ -109,8 +109,8 @@
                         <div class="card h-100 shadow-sm border-0">
                             <img src="{{ asset('images/couple 4.jpg') }}" class="card-img-top" alt="Produk 7">
                             <div class="card-body text-center">
-                                <h6 class="fw-bold mb-1">Kalung Couple Batu Alam</h6>
-                                <p class="text-muted mb-0">Rp 150.000 / pasangan</p>
+                                <h6 class="fw-bold mb-1">Couple Bracelet Spider</h6>
+                                <p class="text-muted mb-0">Rp 15.000</p>
                             </div>
                         </div>
                     </div>
