@@ -6,11 +6,10 @@
 <!-- Hero Section dengan Video Background -->
 <div class="position-relative" style="height: 100vh; overflow: hidden;">
     <!-- Video Background -->
-    <video controls autoplay loop playsinline class="position-absolute top-0 start-0 w-100 h-100"
-        style="object-fit: cover; z-index: 0;">
+    <video autoplay muted loop playsinline class="position-absolute top-0 start-0 w-100 h-100"
+        style="width:100vw; height:100vh; object-fit:cover; z-index:0;">
         <source src="{{ asset('videos/video_promosi.mp4') }}" type="video/mp4">
     </video>
-
 
     <!-- Overlay Transparan -->
     <div class="position-absolute top-0 start-0 w-100 h-100" style="background: rgba(0, 0, 0, 0.45); z-index: 1;">
