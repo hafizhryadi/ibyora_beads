@@ -40,7 +40,6 @@
                                 <td class="fw-semibold">Rp{{ number_format($item->price, 0, ',', '.') }}</td>
                                 <td style="width:120px;">
                                     @if (!empty($item->image))
-                                        {{-- ✅ Path sudah sesuai dengan folder "products" --}}
                                         <img src="{{ asset('storage/products/' . $item->image) }}" alt="{{ $item->name }}"
                                             class="rounded shadow-sm"
                                             style="max-width:100px; height:auto; object-fit:cover;">
