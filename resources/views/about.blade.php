@@ -43,7 +43,7 @@
                     <p style="text-align: justify;">
                         Menjadi brand aksesoris handmade lokal yang dikenal karena keunikan desain, kualitas, dan
                         sentuhan personal dalam setiap karya, serta menginspirasi kepercayaan diri dan gaya
-                        setiap pemakainya.
+                        setiap pemakainye.
                     </p>
                 </div>
             </div>
