@@ -91,10 +91,10 @@
                     ['gantungan kunci 2.jpg', 'Aesthetic Bow Keychain', 25000],
                     ['gantungan kunci 3.jpg', 'Aesthetic Bow Keychain', 25000],
                     ['gantungan kunci 4.jpg', 'Aesthetic Bow Keychain', 25000],
-                    ['scrap hp 1.jpg', 'Phone Strap Black', 40000],
-                    ['scrap hp 2.jpg', 'Phone Strap Pink', 45000],
-                    ['scrap hp 3.jpg', 'Phone Strap Rose', 50000],
-                    ['scrap hp 4.jpg', 'Phone Strap Blue', 55000],
+                    ['scrap hp 1.jpg', 'Phone Strap Black', 35000],
+                    ['scrap hp 2.jpg', 'Phone Strap Pink', 35000],
+                    ['scrap hp 3.jpg', 'Phone Strap Rose', 35000],
+                    ['scrap hp 4.jpg', 'Phone Strap Blue', 35000],
                 ];
             @endphp
 
