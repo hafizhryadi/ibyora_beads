@@ -27,7 +27,7 @@
                 Setiap karya kami dibuat dengan ketelitian dan cinta, mencerminkan keindahan tradisi yang berpadu dengan
                 sentuhan modern.
             </p>
-            <a href="{{ url('/products') }}" class="btn btn-light btn-lg rounded-pill px-4 fw-semibold shadow">
+            <a href="{{ url('/about') }}" class="btn btn-light btn-lg rounded-pill px-4 fw-semibold shadow">
                 Lihat Produk
             </a>
         </div>
